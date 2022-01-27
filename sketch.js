@@ -111,7 +111,7 @@ function spawnDoors()
     
      
 ghost.depth = door.depth;
-    ghost.depth =1;
+    ghost.depth +=1;
     
     //assign lifetime for the  door, climber and invisible block
 
