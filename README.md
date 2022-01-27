@@ -1,1 +1,1 @@
-# C-20-Capstone-Project-Ghost-runner-game
+# C20
