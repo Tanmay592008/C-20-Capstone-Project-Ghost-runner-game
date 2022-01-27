@@ -99,7 +99,12 @@ function spawnDoors()
     invisibleBlock.width = climber.width;
     invisibleBlock.height = 2;
     //add the random function
-    //
+    
+    door.x = (Math.round(random(100,400)))
+    climber.x = door.x
+    invisibleBlock.x = door.x
+    
+    
     door.addImage(doorImg);
     climber.addImage(climberImg);
     
